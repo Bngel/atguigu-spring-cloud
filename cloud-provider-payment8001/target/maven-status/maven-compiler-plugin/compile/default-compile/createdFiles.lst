@@ -1,0 +1,5 @@
+cn\bngel\springcloud\springcloud\PaymentMain8001.class
+cn\bngel\springcloud\springcloud\service\impl\PaymentServiceImpl.class
+cn\bngel\springcloud\springcloud\controller\PaymentController.class
+cn\bngel\springcloud\springcloud\dao\PaymentDao.class
+cn\bngel\springcloud\springcloud\service\PaymentService.class

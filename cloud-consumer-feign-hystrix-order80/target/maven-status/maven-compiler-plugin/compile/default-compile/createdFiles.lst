@@ -1,0 +1,4 @@
+cn\bngel\springcloud\springcloud\OrderHystrixMain80.class
+cn\bngel\springcloud\springcloud\service\PaymentHystrixService.class
+cn\bngel\springcloud\springcloud\controller\OrderHystrixController.class
+cn\bngel\springcloud\springcloud\service\PaymentFallbackService.class
